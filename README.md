@@ -26,11 +26,13 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282832?style=for-the-badge&logo=python&logoColor=dee7e7" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-77181e?style=for-the-badge&logo=pandas&logoColor=dee7e7" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PySerial-a92727?style=for-the-badge&logo=python&logoColor=dee7e7" alt="PySerial" />
-  <img src="https://img.shields.io/badge/Git-282832?style=for-the-badge&logo=git&logoColor=dee7e7" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-77181e?style=for-the-badge&logo=github&logoColor=dee7e7" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-77181e?style=for-the-badge&logo=javascript&logoColor=dee7e7" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Pandas-a92727?style=for-the-badge&logo=pandas&logoColor=dee7e7" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PySerial-282832?style=for-the-badge&logo=python&logoColor=dee7e7" alt="PySerial" />
+  <img src="https://img.shields.io/badge/Git-77181e?style=for-the-badge&logo=git&logoColor=dee7e7" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-a92727?style=for-the-badge&logo=github&logoColor=dee7e7" alt="GitHub" />
 </div>
+
 
 ---
 
