@@ -13,16 +13,16 @@
 <br />
 
 <!-- SOBRE MIM -->
-## 📌 Sobre Mim
+## Sobre Mim
 
-- 👩‍💻 Atuo na área de **Dados e Automação**, focada na criação de rotinas eficientes e análise de dados.
-- ⚙️ Experiência no desenvolvimento de scripts em **Python** para tratamento de dados e comunicação serial com hardware.
-- 🎯 Objetivos atuais: aprimorar arquiteturas de automação, otimização de rotinas e integração de sistemas.
+-  Atuo na área de **Dados e Automação**, focada na criação de rotinas eficientes e análise de dados.
+-  Experiência no desenvolvimento de scripts em **Python** para tratamento de dados e comunicação serial com hardware.
+-  Objetivos atuais: aprimorar arquiteturas de automação, otimização de rotinas e integração de sistemas.
 
 ---
 
 <!-- TECNOLOGIAS -->
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282832?style=for-the-badge&logo=python&logoColor=dee7e7" alt="Python" />
@@ -35,12 +35,12 @@
 ---
 
 <!-- PROJETOS EM CARDS -->
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📌 Em Breve: Projeto 01</h3>
+      <h3 align="center"> Em Breve: Projeto 01</h3>
       <p align="center">
         <i>Espaço reservado para descrição do projeto de dados ou automação.</i>
       </p>
@@ -50,7 +50,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📌 Em Breve: Projeto 02</h3>
+      <h3 align="center"> Em Breve: Projeto 02</h3>
       <p align="center">
         <i>Espaço reservado para descrição do projeto de automação serial / hardware.</i>
       </p>
@@ -65,7 +65,7 @@
 ---
 
 <!-- ESTATÍSTICAS DO GITHUB -->
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=slvaeve25&show_icons=true&theme=dark&title_color=a92727&text_color=c6d6d6&bg_color=282832&border_color=77181e&icon_color=a92727&hide_border=false" alt="GitHub Stats" />
@@ -77,7 +77,7 @@
 ---
 
 <!-- REDES SOCIAIS -->
-## 🌐 Vamos Conectar?
+##  Vamos Conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/evellen-silva-442438298" target="_blank">
@@ -96,5 +96,5 @@
 <!-- RODAPÉ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=282832&height=90&section=footer" width="100%" alt="Footer Banner" />
-  <p><i>Desenvolvido por Evellen Silva ⚡</i></p>
+  <p><i>Desenvolvido por Evellen Silva </i></p>
 </div>
