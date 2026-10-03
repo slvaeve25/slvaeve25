@@ -15,9 +15,9 @@
 <!-- SOBRE MIM -->
 ## Sobre Mim
 
--  Atuo na área de **Dados e Automação**, focada na criação de rotinas eficientes e análise de dados.
--  Experiência no desenvolvimento de scripts em **Python** para tratamento de dados e comunicação serial com hardware.
--  Objetivos atuais: aprimorar arquiteturas de automação, otimização de rotinas e integração de sistemas.
+* **Desenvolvedora** com interesse no desenvolvimento de soluções digitais e na construção de projetos utilizando diferentes tecnologias.
+* Atuação em projetos de **desenvolvimento web, software, automação e dados**, com foco em funcionalidade, organização e eficiência.
+* Em constante aprimoramento técnico, buscando aplicar **boas práticas de desenvolvimento, arquitetura e integração de sistemas**.
 
 ---
 
