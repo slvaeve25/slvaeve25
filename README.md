@@ -37,31 +37,15 @@
 <!-- PROJETOS EM CARDS -->
 ##  Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> Em Breve: Projeto 01</h3>
-      <p align="center">
-        <i>Espaço reservado para descrição do projeto de dados ou automação.</i>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-282832?style=flat-square&logo=python&logoColor=dee7e7" />
-        <img src="https://img.shields.io/badge/Pandas-77181e?style=flat-square&logo=pandas&logoColor=dee7e7" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"> Em Breve: Projeto 02</h3>
-      <p align="center">
-        <i>Espaço reservado para descrição do projeto de automação serial / hardware.</i>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-282832?style=flat-square&logo=python&logoColor=dee7e7" />
-        <img src="https://img.shields.io/badge/PySerial-a92727?style=flat-square&logo=python&logoColor=dee7e7" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<a href="#"> <img src="https://img.shields.io/badge/Projeto-a92727?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
+
+<a href="#"> <img src="https://img.shields.io/badge/Projeto-77181e?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
+
+<a href="#"> <img src="https://img.shields.io/badge/Projeto-282832?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
+
+</div>
 ---
 
 <!-- ESTATÍSTICAS DO GITHUB -->
