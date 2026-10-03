@@ -36,16 +36,7 @@
 
 <!-- PROJETOS EM CARDS -->
 ##  Projetos em Destaque
-
-<div align="center">
-
-<a href="#"> <img src="https://img.shields.io/badge/Projeto-a92727?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
-
-<a href="#"> <img src="https://img.shields.io/badge/Projeto-77181e?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
-
-<a href="#"> <img src="https://img.shields.io/badge/Projeto-282832?style=for-the-badge&logo=github&logoColor=dee7e7" /> </a>
-
-</div>
+<p>Coming soon...</p>
 ---
 
 <!-- ESTATÍSTICAS DO GITHUB -->
